@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <article>Definite</article>
+        <plural>false</plural>
+        <value>Serviceoffert</value>
+    </caseValues>
+    <caseValues>
+        <article>Indefinite</article>
+        <plural>false</plural>
+        <value>Serviceoffert</value>
+    </caseValues>
+    <caseValues>
+        <article>None</article>
+        <plural>false</plural>
+        <value>Serviceoffert</value>
+    </caseValues>
+    <caseValues>
+        <article>Definite</article>
+        <plural>true</plural>
+        <value>Serviceofferter</value>
+    </caseValues>
+    <caseValues>
+        <article>Indefinite</article>
+        <plural>true</plural>
+        <value>Serviceofferter</value>
+    </caseValues>
+    <caseValues>
+        <article>None</article>
+        <plural>true</plural>
+        <value>Serviceofferter</value>
+    </caseValues>
+    <gender>Neuter</gender>
+    <layouts>
+        <layout>SVMX Service Quote - Admin</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Call Center</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Contracts</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Dispatcher</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Inv Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Inv User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Svc Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Svc User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Offertnummer</nameFieldLabel>
+</CustomObjectTranslation>

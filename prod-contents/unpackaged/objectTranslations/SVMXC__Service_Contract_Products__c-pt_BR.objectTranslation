@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Produtos cobertos</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Produtos cobertos</value>
+    </caseValues>
+    <gender>Feminine</gender>
+    <layouts>
+        <layout>SVMX Covered Products - Admin</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Call Center</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Contracts</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Dispatcher</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Inv Manager</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Inv User</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Svc Manager</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Svc User</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Número do registro</nameFieldLabel>
+</CustomObjectTranslation>

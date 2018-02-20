@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter this user&apos;s FaceTime login ID if available. This is used to make FaceTime calls in ServiceMax iPad Client. If this is left blank, user&apos;s phone number and email are used for the call. --></help>
+    <label><!-- FaceTime ID --></label>
+    <name>SVMXC__FaceTime_ID__c</name>
+</CustomFieldTranslation>

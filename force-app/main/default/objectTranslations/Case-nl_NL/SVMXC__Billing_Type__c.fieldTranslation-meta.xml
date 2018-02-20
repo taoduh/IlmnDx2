@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select Billing Type --></help>
+    <label><!-- Billing Type --></label>
+    <name>SVMXC__Billing_Type__c</name>
+    <picklistValues>
+        <masterLabel>Contract</masterLabel>
+        <translation><!-- Contract --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Courtesy</masterLabel>
+        <translation><!-- Courtesy --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Empowerment</masterLabel>
+        <translation>Machtiging</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Loan</masterLabel>
+        <translation>Lening</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Paid</masterLabel>
+        <translation>Betaald</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Warranty</masterLabel>
+        <translation>Garantie</translation>
+    </picklistValues>
+</CustomFieldTranslation>

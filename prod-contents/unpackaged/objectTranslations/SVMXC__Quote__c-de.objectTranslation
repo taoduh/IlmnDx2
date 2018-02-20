@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <value>Servicekostenvoranschlag</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <value>Servicekostenvoranschläge</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>false</plural>
+        <value>Servicekostenvoranschlag</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>true</plural>
+        <value>Servicekostenvoranschläge</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>false</plural>
+        <value>Servicekostenvoranschlag</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>true</plural>
+        <value>Servicekostenvoranschläge</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>false</plural>
+        <value>Servicekostenvoranschlag</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>true</plural>
+        <value>Servicekostenvoranschläge</value>
+    </caseValues>
+    <gender>Neuter</gender>
+    <layouts>
+        <layout>SVMX Service Quote - Admin</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Call Center</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Contracts</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Dispatcher</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Inv Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Inv User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Svc Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Service Quote - Svc User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Angebot Nummer</nameFieldLabel>
+</CustomObjectTranslation>

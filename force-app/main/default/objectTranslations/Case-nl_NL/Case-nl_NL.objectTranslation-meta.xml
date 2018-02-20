@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>SVMX Case - Admin</layout>
+        <sections>
+            <label><!-- Automatic Entitlement --></label>
+            <section>Automatic Entitlement</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Product &amp; Entitlement --></label>
+            <section>Product &amp; Entitlement</section>
+        </sections>
+        <sections>
+            <label><!-- SLA Status --></label>
+            <section>SLA Status</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow wizards --></label>
+            <section>Service Flow wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case - Call Center</layout>
+        <sections>
+            <label><!-- Automatic Entitlement --></label>
+            <section>Automatic Entitlement</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Product &amp; Entitlement --></label>
+            <section>Product &amp; Entitlement</section>
+        </sections>
+        <sections>
+            <label><!-- SLA Status --></label>
+            <section>SLA Status</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow wizards --></label>
+            <section>Service Flow wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case - Contracts</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Product &amp; Entitlement --></label>
+            <section>Product &amp; Entitlement</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow wizards --></label>
+            <section>Service Flow wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case - Dispatcher</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- SLA Status --></label>
+            <section>SLA Status</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case - Inv Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case - Inv User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case - Svc Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- SLA Status --></label>
+            <section>SLA Status</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case - Svc User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- SLA Status --></label>
+            <section>SLA Status</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX-APL Case - Admin</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow wizards --></label>
+            <section>Service Flow wizards</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- NewChildCase --></label>
+        <name>NewChildCase</name>
+    </quickActions>
+    <webLinks>
+        <label><!-- EditInExcel --></label>
+        <name>Apttus_XApps__EditInExcel</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Booking_Window --></label>
+        <name>SVMXC__Booking_Window</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Entitlement --></label>
+        <name>SVMXC__Entitlement</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_RMA --></label>
+        <name>SVMXC__New_RMA</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_Service_Order --></label>
+        <name>SVMXC__New_Service_Order</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_Shipment --></label>
+        <name>SVMXC__New_Shipment</name>
+    </webLinks>
+</CustomObjectTranslation>

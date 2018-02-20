@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- “State/Province” part of the physical location address of Component SN --></help>
+    <label><!-- Component SN State --></label>
+    <name>SVMXC__Component_State__c</name>
+</CustomFieldTranslation>

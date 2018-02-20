@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <possessive>None</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <possessive>None</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <possessive>First</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <possessive>First</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <possessive>Second</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <possessive>Second</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>false</plural>
+        <possessive>None</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>true</plural>
+        <possessive>None</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>false</plural>
+        <possessive>First</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>true</plural>
+        <possessive>First</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>false</plural>
+        <possessive>Second</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>true</plural>
+        <possessive>Second</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Inessive</caseType>
+        <plural>false</plural>
+        <possessive>None</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Inessive</caseType>
+        <plural>true</plural>
+        <possessive>None</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Inessive</caseType>
+        <plural>false</plural>
+        <possessive>First</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Inessive</caseType>
+        <plural>true</plural>
+        <possessive>First</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Inessive</caseType>
+        <plural>false</plural>
+        <possessive>Second</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Inessive</caseType>
+        <plural>true</plural>
+        <possessive>Second</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Elative</caseType>
+        <plural>false</plural>
+        <possessive>None</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Elative</caseType>
+        <plural>true</plural>
+        <possessive>None</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Elative</caseType>
+        <plural>false</plural>
+        <possessive>First</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Elative</caseType>
+        <plural>true</plural>
+        <possessive>First</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Elative</caseType>
+        <plural>false</plural>
+        <possessive>Second</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Elative</caseType>
+        <plural>true</plural>
+        <possessive>Second</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Illative</caseType>
+        <plural>false</plural>
+        <possessive>None</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Illative</caseType>
+        <plural>true</plural>
+        <possessive>None</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Illative</caseType>
+        <plural>false</plural>
+        <possessive>First</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Illative</caseType>
+        <plural>true</plural>
+        <possessive>First</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Illative</caseType>
+        <plural>false</plural>
+        <possessive>Second</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Illative</caseType>
+        <plural>true</plural>
+        <possessive>Second</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Adessive</caseType>
+        <plural>false</plural>
+        <possessive>None</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Adessive</caseType>
+        <plural>true</plural>
+        <possessive>None</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Adessive</caseType>
+        <plural>false</plural>
+        <possessive>First</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Adessive</caseType>
+        <plural>true</plural>
+        <possessive>First</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Adessive</caseType>
+        <plural>false</plural>
+        <possessive>Second</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Adessive</caseType>
+        <plural>true</plural>
+        <possessive>Second</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Ablative</caseType>
+        <plural>false</plural>
+        <possessive>None</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Ablative</caseType>
+        <plural>true</plural>
+        <possessive>None</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Ablative</caseType>
+        <plural>false</plural>
+        <possessive>First</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Ablative</caseType>
+        <plural>true</plural>
+        <possessive>First</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Ablative</caseType>
+        <plural>false</plural>
+        <possessive>Second</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Ablative</caseType>
+        <plural>true</plural>
+        <possessive>Second</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Allative</caseType>
+        <plural>false</plural>
+        <possessive>None</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Allative</caseType>
+        <plural>true</plural>
+        <possessive>None</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Allative</caseType>
+        <plural>false</plural>
+        <possessive>First</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Allative</caseType>
+        <plural>true</plural>
+        <possessive>First</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Allative</caseType>
+        <plural>false</plural>
+        <possessive>Second</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Allative</caseType>
+        <plural>true</plural>
+        <possessive>Second</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Essive</caseType>
+        <plural>false</plural>
+        <possessive>None</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Essive</caseType>
+        <plural>true</plural>
+        <possessive>None</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Essive</caseType>
+        <plural>false</plural>
+        <possessive>First</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Essive</caseType>
+        <plural>true</plural>
+        <possessive>First</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Essive</caseType>
+        <plural>false</plural>
+        <possessive>Second</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Essive</caseType>
+        <plural>true</plural>
+        <possessive>Second</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Translative</caseType>
+        <plural>false</plural>
+        <possessive>None</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Translative</caseType>
+        <plural>true</plural>
+        <possessive>None</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Translative</caseType>
+        <plural>false</plural>
+        <possessive>First</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Translative</caseType>
+        <plural>true</plural>
+        <possessive>First</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Translative</caseType>
+        <plural>false</plural>
+        <possessive>Second</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Translative</caseType>
+        <plural>true</plural>
+        <possessive>Second</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Partitive</caseType>
+        <plural>false</plural>
+        <possessive>None</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Partitive</caseType>
+        <plural>true</plural>
+        <possessive>None</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Partitive</caseType>
+        <plural>false</plural>
+        <possessive>First</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Partitive</caseType>
+        <plural>true</plural>
+        <possessive>First</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Partitive</caseType>
+        <plural>false</plural>
+        <possessive>Second</possessive>
+        <value>Katettu tuote</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Partitive</caseType>
+        <plural>true</plural>
+        <possessive>Second</possessive>
+        <value>Katetut tuotteet</value>
+    </caseValues>
+    <layouts>
+        <layout>SVMX Covered Products - Admin</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Call Center</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Contracts</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Dispatcher</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Inv Manager</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Inv User</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Svc Manager</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Covered Products - Svc User</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Enter Coverage By Installed Product --></label>
+            <section>Enter Coverage By Installed Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product --></label>
+            <section>Or Enter Coverage By Product</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Family --></label>
+            <section>Or Enter Coverage By Product Family</section>
+        </sections>
+        <sections>
+            <label><!-- Or Enter Coverage By Product Line --></label>
+            <section>Or Enter Coverage By Product Line</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Tietueen numero</nameFieldLabel>
+</CustomObjectTranslation>

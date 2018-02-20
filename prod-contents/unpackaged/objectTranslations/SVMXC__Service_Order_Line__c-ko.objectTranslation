@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>작업 세부 정보</value>
+    </caseValues>
+    <layouts>
+        <layout>SVMX Work Details Estimate - Admin</layout>
+        <sections>
+            <label><!-- Estimate Details --></label>
+            <section>Estimate Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Estimate - Call Center</layout>
+        <sections>
+            <label><!-- Estimate Details --></label>
+            <section>Estimate Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Estimate - Contracts</layout>
+        <sections>
+            <label><!-- Estimate Details --></label>
+            <section>Estimate Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Estimate - Dispatcher</layout>
+        <sections>
+            <label><!-- Estimate Details --></label>
+            <section>Estimate Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Estimate - Inv Manager</layout>
+        <sections>
+            <label><!-- Estimate Details --></label>
+            <section>Estimate Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Estimate - Inv User</layout>
+        <sections>
+            <label><!-- Estimate Details --></label>
+            <section>Estimate Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Estimate - Svc Manager</layout>
+        <sections>
+            <label><!-- Estimate Details --></label>
+            <section>Estimate Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Estimate - Svc User</layout>
+        <sections>
+            <label><!-- Estimate Details --></label>
+            <section>Estimate Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Parts Request - Admin</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Indicate Where The Parts Are Required --></label>
+            <section>Indicate Where The Parts Are Required</section>
+        </sections>
+        <sections>
+            <label><!-- Parts Requested From --></label>
+            <section>Parts Requested From</section>
+        </sections>
+        <sections>
+            <label><!-- Receipt Information --></label>
+            <section>Receipt Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Parts Request - Call Center</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Indicate Where The Parts Are Required --></label>
+            <section>Indicate Where The Parts Are Required</section>
+        </sections>
+        <sections>
+            <label><!-- Parts Requested From --></label>
+            <section>Parts Requested From</section>
+        </sections>
+        <sections>
+            <label><!-- Receipt Information --></label>
+            <section>Receipt Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Parts Request - Contracts</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Indicate Where The Parts Are Required --></label>
+            <section>Indicate Where The Parts Are Required</section>
+        </sections>
+        <sections>
+            <label><!-- Parts Requested From --></label>
+            <section>Parts Requested From</section>
+        </sections>
+        <sections>
+            <label><!-- Receipt Information --></label>
+            <section>Receipt Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Parts Request - Dispatcher</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Indicate Where The Parts Are Required --></label>
+            <section>Indicate Where The Parts Are Required</section>
+        </sections>
+        <sections>
+            <label><!-- Parts Requested From --></label>
+            <section>Parts Requested From</section>
+        </sections>
+        <sections>
+            <label><!-- Receipt Information --></label>
+            <section>Receipt Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Parts Request - Inv Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Indicate Where The Parts Are Required --></label>
+            <section>Indicate Where The Parts Are Required</section>
+        </sections>
+        <sections>
+            <label><!-- Parts Requested From --></label>
+            <section>Parts Requested From</section>
+        </sections>
+        <sections>
+            <label><!-- Receipt Information --></label>
+            <section>Receipt Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Parts Request - Inv User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Indicate Where The Parts Are Required --></label>
+            <section>Indicate Where The Parts Are Required</section>
+        </sections>
+        <sections>
+            <label><!-- Parts Requested From --></label>
+            <section>Parts Requested From</section>
+        </sections>
+        <sections>
+            <label><!-- Receipt Information --></label>
+            <section>Receipt Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Parts Request - Svc Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Indicate Where The Parts Are Required --></label>
+            <section>Indicate Where The Parts Are Required</section>
+        </sections>
+        <sections>
+            <label><!-- Parts Requested From --></label>
+            <section>Parts Requested From</section>
+        </sections>
+        <sections>
+            <label><!-- Receipt Information --></label>
+            <section>Receipt Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Parts Request - Svc User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Indicate Where The Parts Are Required --></label>
+            <section>Indicate Where The Parts Are Required</section>
+        </sections>
+        <sections>
+            <label><!-- Parts Requested From --></label>
+            <section>Parts Requested From</section>
+        </sections>
+        <sections>
+            <label><!-- Receipt Information --></label>
+            <section>Receipt Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Prods Serviced - Admin</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Prods Serviced - Call Center</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Prods Serviced - Contracts</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Prods Serviced - Dispatcher</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Prods Serviced - Inv Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Prods Serviced - Inv User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Prods Serviced - Svc Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Prods Serviced - Svc User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Usage - Admin</layout>
+        <sections>
+            <label><!-- Usage/Consumption Details --></label>
+            <section>Usage/Consumption Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Usage - Call Center</layout>
+        <sections>
+            <label><!-- Usage/Consumption Details --></label>
+            <section>Usage/Consumption Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Usage - Contracts</layout>
+        <sections>
+            <label><!-- Usage/Consumption Details --></label>
+            <section>Usage/Consumption Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Usage - Dispatcher</layout>
+        <sections>
+            <label><!-- Usage/Consumption Details --></label>
+            <section>Usage/Consumption Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Usage - Inv Manager</layout>
+        <sections>
+            <label><!-- Usage/Consumption Details --></label>
+            <section>Usage/Consumption Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Usage - Inv User</layout>
+        <sections>
+            <label><!-- Usage/Consumption Details --></label>
+            <section>Usage/Consumption Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Usage - Svc Manager</layout>
+        <sections>
+            <label><!-- Usage/Consumption Details --></label>
+            <section>Usage/Consumption Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Work Details Usage - Svc User</layout>
+        <sections>
+            <label><!-- Usage/Consumption Details --></label>
+            <section>Usage/Consumption Details</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>라인 번호</nameFieldLabel>
+</CustomObjectTranslation>

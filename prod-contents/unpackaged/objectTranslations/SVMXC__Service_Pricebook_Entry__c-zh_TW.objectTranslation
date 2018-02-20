@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>服務價目表輸入內容</value>
+    </caseValues>
+    <layouts>
+        <layout>SVMX Service Pricebook Entry - Standard</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>備案號</nameFieldLabel>
+</CustomObjectTranslation>

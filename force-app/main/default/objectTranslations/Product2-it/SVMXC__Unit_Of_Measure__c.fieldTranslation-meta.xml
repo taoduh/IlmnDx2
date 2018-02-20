@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Unit of measure for this product --></help>
+    <label><!-- Unit of Measure --></label>
+    <name>SVMXC__Unit_Of_Measure__c</name>
+    <picklistValues>
+        <masterLabel>Box</masterLabel>
+        <translation>Riquadro</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dozen</masterLabel>
+        <translation>Dozzina</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Each</masterLabel>
+        <translation>Ciascuno</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Gallon</masterLabel>
+        <translation>Gallone</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Kilogram</masterLabel>
+        <translation>Chilogrammo</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Liter</masterLabel>
+        <translation>Litro</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pounds</masterLabel>
+        <translation>Libbre</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ton</masterLabel>
+        <translation>Tonnellata</translation>
+    </picklistValues>
+</CustomFieldTranslation>

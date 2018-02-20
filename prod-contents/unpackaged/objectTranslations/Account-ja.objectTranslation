@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <help>フィルタ条件は、取引先または請求書を送信するために電子メールIDのカンマ区切りのリストのための請求先を選択します</help>
+        <label><!-- Billing Contact Filter Criteria --></label>
+        <name>Apttus_Config2__BillingContactFilterCriteria__c</name>
+    </fields>
+    <fields>
+        <help>指定された取引先のための請求先セットアップ形式を指定します</help>
+        <label><!-- Billing Contact Format --></label>
+        <name>Apttus_Config2__BillingContactFormat__c</name>
+        <picklistValues>
+            <masterLabel>Comma Separated Values</masterLabel>
+            <translation>カンマ区切り値</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Filter Criteria</masterLabel>
+            <translation>フィルタ条件</translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help>取引先のための月の請求日｡　特定日（月）、月末、etc</help>
+        <label><!-- Billing Day Of Month --></label>
+        <name>Apttus_Config2__BillingDayOfMonth__c</name>
+        <picklistValues>
+            <masterLabel>10th of the Month</masterLabel>
+            <translation>今月の10日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>11th of the Month</masterLabel>
+            <translation>今月の11日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>12th of the Month</masterLabel>
+            <translation>今月の12日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>13th of the Month</masterLabel>
+            <translation>今月の13日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>14th of the Month</masterLabel>
+            <translation>今月の14日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>15th of the Month</masterLabel>
+            <translation>今月の15日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>16th of the Month</masterLabel>
+            <translation>今月の16日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>17th of the Month</masterLabel>
+            <translation>今月の17日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>18th of the Month</masterLabel>
+            <translation>今月の18日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>19th of the Month</masterLabel>
+            <translation>今月の19日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1st of the Month</masterLabel>
+            <translation>今月の1日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>20th of the Month</masterLabel>
+            <translation>今月の20日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>21st of the Month</masterLabel>
+            <translation>今月の21日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>22nd of the Month</masterLabel>
+            <translation>今月の22日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>23rd of the Month</masterLabel>
+            <translation>今月の23日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>24th of the Month</masterLabel>
+            <translation>今月の24日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>25th of the Month</masterLabel>
+            <translation>今月の25日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>26th of the Month</masterLabel>
+            <translation>今月の26日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>27th of the Month</masterLabel>
+            <translation>今月の27日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>28th of the Month</masterLabel>
+            <translation>今月の28日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>29th of the Month</masterLabel>
+            <translation>今月の29日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2nd of the Month</masterLabel>
+            <translation>今月の2日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>30th of the Month</masterLabel>
+            <translation>今月の30日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>31st of the Month</masterLabel>
+            <translation>今月の31日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3rd of the Month</masterLabel>
+            <translation>今月の3日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4th of the Month</masterLabel>
+            <translation>今月の4日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5th of the Month</masterLabel>
+            <translation>今月の5日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6th of the Month</masterLabel>
+            <translation>今月の6日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>7th of the Month</masterLabel>
+            <translation>今月の7日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8th of the Month</masterLabel>
+            <translation>今月の8日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>9th of the Month</masterLabel>
+            <translation>今月の9日</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>End of Month</masterLabel>
+            <translation>月末</translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help>関連する請求方法ID</help>
+        <label><!-- Billing Preference --></label>
+        <name>Apttus_Config2__BillingPreferenceId__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <help>請求サイクルが与えられたアカウントのために整列されるカレンダーの月を示します</help>
+        <label><!-- Calendar Cycle Start --></label>
+        <name>Apttus_Config2__CalendarCycleStart__c</name>
+        <picklistValues>
+            <masterLabel>April</masterLabel>
+            <translation>4月</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>August</masterLabel>
+            <translation>8月</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>December</masterLabel>
+            <translation>12月</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>February</masterLabel>
+            <translation>2月</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>January</masterLabel>
+            <translation>1月</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>July</masterLabel>
+            <translation>7月</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>June</masterLabel>
+            <translation>6月</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>March</masterLabel>
+            <translation>3月</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>May</masterLabel>
+            <translation>5月</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>November</masterLabel>
+            <translation>11月</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>October</masterLabel>
+            <translation>10月</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>September</masterLabel>
+            <translation>9月</translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help>関連する納税証明書ID。該当する場合にのみ非課税</help>
+        <label><!-- Tax Certificate --></label>
+        <name>Apttus_Config2__CertificateId__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <help>現在選択された取引先のクレジットメモ電子メールテンプレートを指定します</help>
+        <label><!-- Credit Memo Email Template --></label>
+        <name>Apttus_Config2__CreditMemoEmailTemplate__c</name>
+    </fields>
+    <fields>
+        <help>クレジットメモドキュメントを生成するためのデフォルトのクレジットメモテンプレート名</help>
+        <label><!-- Default Credit Memo Template --></label>
+        <name>Apttus_Config2__DefaultCreditMemoTemplate__c</name>
+    </fields>
+    <fields>
+        <help>請求書の文を生成するためのデフォルトのテンプレート名</help>
+        <label><!-- Default Invoice Statement Template --></label>
+        <name>Apttus_Config2__DefaultInvoiceStatementTemplate__c</name>
+    </fields>
+    <fields>
+        <help>請求書を生成するためのデフォルトの請求書のテンプレート名</help>
+        <label><!-- Default Invoice Template --></label>
+        <name>Apttus_Config2__DefaultInvoiceTemplate__c</name>
+    </fields>
+    <fields>
+        <help>指定された取引先の現在選択している請求書の電子メールテンプレートを指定します</help>
+        <label><!-- Invoice Email Template --></label>
+        <name>Apttus_Config2__InvoiceEmailTemplate__c</name>
+    </fields>
+    <fields>
+        <help>取引先に関連付けられた初期の支払条件ID</help>
+        <label><!-- Payment Term --></label>
+        <name>Apttus_Config2__PaymentTermId__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <help>非課税のステータス該当する場合にのみ、非課税</help>
+        <label><!-- Tax Exempt Status --></label>
+        <name>Apttus_Config2__TaxExemptStatus__c</name>
+        <picklistValues>
+            <masterLabel>Approved</masterLabel>
+            <translation>承認済</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Processing</masterLabel>
+            <translation>処理中</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rejected</masterLabel>
+            <translation>却下済</translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help>アカウントの非課税インジケータ</help>
+        <label><!-- Tax Exempt ? --></label>
+        <name>Apttus_Config2__TaxExempt__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation>いいえ</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation>はい</translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Access Hours --></label>
+        <name>SVMXC__Access_Hours__c</name>
+        <relationshipLabel><!-- Accounts (Access Hours) --></relationshipLabel>
+    </fields>
+    <fields>
+        <help><!-- (Do Not Use) --></help>
+        <label><!-- Business Hours (Do Not Use) --></label>
+        <name>SVMXC__Business_Hours__c</name>
+        <relationshipLabel><!-- Accounts (Business Hours) --></relationshipLabel>
+    </fields>
+    <fields>
+        <help><!-- Address location north or south of the equator. --></help>
+        <label><!-- Latitude --></label>
+        <name>SVMXC__Latitude__c</name>
+    </fields>
+    <fields>
+        <help><!-- East west geographic coordinate measurement. --></help>
+        <label><!-- Longitude --></label>
+        <name>SVMXC__Longitude__c</name>
+    </fields>
+    <fields>
+        <label><!-- Preferred Technician --></label>
+        <name>SVMXC__Preferred_Technician__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>Account Layout</layout>
+        <sections>
+            <label><!-- Account Summary --></label>
+            <section>Account Summary</section>
+        </sections>
+        <sections>
+            <label><!-- SFM Wizards --></label>
+            <section>SFM Wizards</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Account - Admin</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Information --></label>
+            <section>Service Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Account - Call Center</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Information --></label>
+            <section>Service Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Account - Contracts</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Information --></label>
+            <section>Service Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Account - Dispatcher</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Account - Inv Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Information --></label>
+            <section>Service Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Account - Inv User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Service Information --></label>
+            <section>Service Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Account - Svc Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Account - Svc User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Child Account --></label>
+        <name>Child_Account</name>
+    </quickActions>
+    <webLinks>
+        <label><!-- ViewAgreementHierarchyforAccount --></label>
+        <name>Apttus__ViewAgreementHierarchyforAccount</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- ViewAgreementHierarchyforAccount2 --></label>
+        <name>Apttus__ViewAgreementHierarchyforAccount2</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleMaps --></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleNews --></label>
+        <name>GoogleNews</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleSearch --></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Send_to_EchoSign --></label>
+        <name>echosign_dev1__Send_to_EchoSign</name>
+    </webLinks>
+</CustomObjectTranslation>

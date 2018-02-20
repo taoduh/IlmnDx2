@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- SContract Business Hour --></label>
+    <name>SVMXC__SContract_Business_Hour__c</name>
+</CustomFieldTranslation>

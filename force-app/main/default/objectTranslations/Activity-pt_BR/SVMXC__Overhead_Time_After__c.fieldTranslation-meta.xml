@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Total overhead or flex time at the end of the service at the work order location. --></help>
+    <label><!-- Overhead Time at End of the Job (Mins) --></label>
+    <name>SVMXC__Overhead_Time_After__c</name>
+</CustomFieldTranslation>

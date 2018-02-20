@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Orden de componentes</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Orden de componentes</value>
+    </caseValues>
+    <gender>Feminine</gender>
+    <layouts>
+        <layout>SVMX RMA - Admin</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX RMA - Call Center</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX RMA - Contracts</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX RMA - Dispatcher</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX RMA - Inv Manager</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX RMA - Inv User</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX RMA - Svc Manager</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX RMA - Svc User</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Shipment - Admin</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+        <sections>
+            <label><!-- Terms --></label>
+            <section>Terms</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Shipment - Call Center</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+        <sections>
+            <label><!-- Terms --></label>
+            <section>Terms</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Shipment - Contracts</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+        <sections>
+            <label><!-- Terms --></label>
+            <section>Terms</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Shipment - Dispatcher</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+        <sections>
+            <label><!-- Terms --></label>
+            <section>Terms</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Shipment - Inv Manager</layout>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+        <sections>
+            <label><!-- Terms &amp; Delivery --></label>
+            <section>Terms &amp; Delivery</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Shipment - Inv User</layout>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+        <sections>
+            <label><!-- Terms &amp; Delivery --></label>
+            <section>Terms &amp; Delivery</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Shipment - Svc Manager</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+        <sections>
+            <label><!-- Terms --></label>
+            <section>Terms</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Shipment - Svc User</layout>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizards --></label>
+            <section>Service Flow Wizards</section>
+        </sections>
+        <sections>
+            <label><!-- Shipping From and To --></label>
+            <section>Shipping From and To</section>
+        </sections>
+        <sections>
+            <label><!-- Terms --></label>
+            <section>Terms</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Nº de orden</nameFieldLabel>
+</CustomObjectTranslation>

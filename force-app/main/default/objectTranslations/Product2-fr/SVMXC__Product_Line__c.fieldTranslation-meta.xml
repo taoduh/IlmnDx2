@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Product Line is another way to classify your products (similar to product family). --></help>
+    <label><!-- Product Line --></label>
+    <name>SVMXC__Product_Line__c</name>
+    <picklistValues>
+        <masterLabel>Accessory</masterLabel>
+        <translation>Accessoire</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Desktop</masterLabel>
+        <translation>Desktop</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Laptop</masterLabel>
+        <translation>Laptop</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Network</masterLabel>
+        <translation>Réseau</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Server</masterLabel>
+        <translation>Serveur</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Software</masterLabel>
+        <translation>Logiciel</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Solution</masterLabel>
+        <translation>Solution</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Storage</masterLabel>
+        <translation>Stockage</translation>
+    </picklistValues>
+</CustomFieldTranslation>

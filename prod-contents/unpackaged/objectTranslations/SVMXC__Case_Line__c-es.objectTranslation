@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Línea de caso</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Líneas de caso</value>
+    </caseValues>
+    <gender>Feminine</gender>
+    <layouts>
+        <layout>SVMX Case Line - Admin</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Details --></label>
+            <section>Details</section>
+        </sections>
+        <sections>
+            <label><!-- Entitlement Details --></label>
+            <section>Entitlement Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case Line - Call Center</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Details --></label>
+            <section>Details</section>
+        </sections>
+        <sections>
+            <label><!-- Entitlement Details --></label>
+            <section>Entitlement Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case Line - Contracts</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Details --></label>
+            <section>Details</section>
+        </sections>
+        <sections>
+            <label><!-- Entitlement Details --></label>
+            <section>Entitlement Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case Line - Dispatcher</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Details --></label>
+            <section>Details</section>
+        </sections>
+        <sections>
+            <label><!-- Entitlement Details --></label>
+            <section>Entitlement Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case Line - Inv Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Details --></label>
+            <section>Details</section>
+        </sections>
+        <sections>
+            <label><!-- Entitlement Details --></label>
+            <section>Entitlement Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case Line - Inv User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Details --></label>
+            <section>Details</section>
+        </sections>
+        <sections>
+            <label><!-- Entitlement Details --></label>
+            <section>Entitlement Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case Line - Svc Manager</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Details --></label>
+            <section>Details</section>
+        </sections>
+        <sections>
+            <label><!-- Entitlement Details --></label>
+            <section>Entitlement Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Case Line - Svc User</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Details --></label>
+            <section>Details</section>
+        </sections>
+        <sections>
+            <label><!-- Entitlement Details --></label>
+            <section>Entitlement Details</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Número de registro</nameFieldLabel>
+</CustomObjectTranslation>

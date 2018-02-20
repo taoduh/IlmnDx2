@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Product Type --></label>
+    <name>SVMXC__Product_Type__c</name>
+    <picklistValues>
+        <masterLabel>Consumable</masterLabel>
+        <translation>消耗性项目</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Wearable</masterLabel>
+        <translation>可穿戴式</translation>
+    </picklistValues>
+</CustomFieldTranslation>

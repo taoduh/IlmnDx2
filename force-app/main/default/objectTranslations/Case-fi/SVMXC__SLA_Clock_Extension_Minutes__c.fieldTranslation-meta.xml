@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- SLA Clock Extension Minutes --></label>
+    <name>SVMXC__SLA_Clock_Extension_Minutes__c</name>
+</CustomFieldTranslation>

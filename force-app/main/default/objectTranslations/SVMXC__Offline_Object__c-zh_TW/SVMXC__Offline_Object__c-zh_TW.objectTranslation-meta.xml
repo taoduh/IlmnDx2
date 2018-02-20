@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>離線物件</value>
+    </caseValues>
+    <layouts>
+        <layout>SVMX Offline Object - Admin</layout>
+        <sections>
+            <label><!-- Criteria --></label>
+            <section>Criteria</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Offline Tab --></label>
+            <section>Offline Tab</section>
+        </sections>
+        <sections>
+            <label><!-- Parent Object Information --></label>
+            <section>Parent Object Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Offline Object - Call Center</layout>
+        <sections>
+            <label><!-- Criteria --></label>
+            <section>Criteria</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Offline Tab --></label>
+            <section>Offline Tab</section>
+        </sections>
+        <sections>
+            <label><!-- Parent Object Information --></label>
+            <section>Parent Object Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Offline Object - Contracts</layout>
+        <sections>
+            <label><!-- Criteria --></label>
+            <section>Criteria</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Offline Tab --></label>
+            <section>Offline Tab</section>
+        </sections>
+        <sections>
+            <label><!-- Parent Object Information --></label>
+            <section>Parent Object Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Offline Object - Dispatcher</layout>
+        <sections>
+            <label><!-- Criteria --></label>
+            <section>Criteria</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Offline Tab --></label>
+            <section>Offline Tab</section>
+        </sections>
+        <sections>
+            <label><!-- Parent Object Information --></label>
+            <section>Parent Object Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Offline Object - Inv Manager</layout>
+        <sections>
+            <label><!-- Criteria --></label>
+            <section>Criteria</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Offline Tab --></label>
+            <section>Offline Tab</section>
+        </sections>
+        <sections>
+            <label><!-- Parent Object Information --></label>
+            <section>Parent Object Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Offline Object - Inv User</layout>
+        <sections>
+            <label><!-- Criteria --></label>
+            <section>Criteria</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Offline Tab --></label>
+            <section>Offline Tab</section>
+        </sections>
+        <sections>
+            <label><!-- Parent Object Information --></label>
+            <section>Parent Object Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Offline Object - Svc Manager</layout>
+        <sections>
+            <label><!-- Criteria --></label>
+            <section>Criteria</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Offline Tab --></label>
+            <section>Offline Tab</section>
+        </sections>
+        <sections>
+            <label><!-- Parent Object Information --></label>
+            <section>Parent Object Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>SVMX Offline Object - Svc User</layout>
+        <sections>
+            <label><!-- Criteria --></label>
+            <section>Criteria</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Offline Tab --></label>
+            <section>Offline Tab</section>
+        </sections>
+        <sections>
+            <label><!-- Parent Object Information --></label>
+            <section>Parent Object Information</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>備案號</nameFieldLabel>
+</CustomObjectTranslation>

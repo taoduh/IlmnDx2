@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Time taken to initial response as per commitment in SLA. --></help>
+    <label><!-- Time to Initial Response (in Minutes) --></label>
+    <name>SVMXC__Time_to_Initial_Response__c</name>
+</CustomFieldTranslation>

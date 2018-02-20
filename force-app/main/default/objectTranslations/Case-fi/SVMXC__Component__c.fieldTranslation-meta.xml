@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Serial number of the component for which the customer is seeking support. Is a lookup to an existing installed product record in ServiceMax --></help>
+    <label><!-- Component SN --></label>
+    <name>SVMXC__Component__c</name>
+    <relationshipLabel><!-- Cases --></relationshipLabel>
+</CustomFieldTranslation>

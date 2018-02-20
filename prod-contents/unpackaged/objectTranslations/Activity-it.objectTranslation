@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <help><!-- This is the total time of all breaks taken during the service. There could be multiple breaks taken during the service. --></help>
+        <label><!-- Total Break Time (Mins) --></label>
+        <name>SVMXC__Break_Time_Total__c</name>
+    </fields>
+    <fields>
+        <help><!-- Driving or travel time to get back to the technician&apos;s home base from the last work order location for the day or working shift. --></help>
+        <label><!-- Travel Time Back to Home Base (Mins) --></label>
+        <name>SVMXC__Driving_Time_Home__c</name>
+    </fields>
+    <fields>
+        <help><!-- Driving or travel time to this work order location from the last work order location or from the home base. --></help>
+        <label><!-- Travel Time to Workorder Location (Mins) --></label>
+        <name>SVMXC__Driving_Time__c</name>
+    </fields>
+    <fields>
+        <help><!-- Total overhead or flex time at the end of the service at the work order location. --></help>
+        <label><!-- Overhead Time at End of the Job (Mins) --></label>
+        <name>SVMXC__Overhead_Time_After__c</name>
+    </fields>
+    <fields>
+        <help><!-- Total overhead or flex time before the start of the actual service at the work order location. --></help>
+        <label><!-- Overhead Time at Start of the Job (Mins) --></label>
+        <name>SVMXC__Overhead_Time_Before__c</name>
+    </fields>
+    <fields>
+        <help><!-- Idle time before the start of the actual service at the work order location. --></help>
+        <label><!-- Idle Time for the Job (Mins) --></label>
+        <name>SVMXC__SM_Idle_Time__c</name>
+    </fields>
+    <fields>
+        <help><!-- This field is created to store the latitude of the non work order events of the technicians. --></help>
+        <label><!-- Latitude --></label>
+        <name>SVMXC__SM_Latitude__c</name>
+    </fields>
+    <fields>
+        <help><!-- This field is created to store the longitude of the non work order events of the technicians. --></help>
+        <label><!-- Longitude --></label>
+        <name>SVMXC__SM_Longitude__c</name>
+    </fields>
+    <fields>
+        <label><!-- Optimizer Message Creation Date Time --></label>
+        <name>SVMXC__SM_Optimizer_Message_Creation_Date_Time__c</name>
+    </fields>
+    <fields>
+        <help><!-- This field is used to store scheduling status --></help>
+        <label><!-- Status --></label>
+        <name>SVMXC__SM_Status__c</name>
+        <picklistValues>
+            <masterLabel>Confirmed</masterLabel>
+            <translation>Confermato</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pending</masterLabel>
+            <translation><!-- Pending --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Total service time or the wrench time of the service. --></help>
+        <label><!-- Service Time (in Seconds) --></label>
+        <name>SVMXC__Service_Duration__c</name>
+    </fields>
+</CustomObjectTranslation>

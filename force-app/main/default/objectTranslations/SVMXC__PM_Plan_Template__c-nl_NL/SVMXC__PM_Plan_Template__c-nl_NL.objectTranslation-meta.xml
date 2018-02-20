@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>PO-plansjabloon</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>PO-plansjablonen</value>
+    </caseValues>
+    <gender>Neuter</gender>
+    <layouts>
+        <layout>SVMX PM Plan Template - Standard</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- New Section --></label>
+            <section>New Section</section>
+        </sections>
+        <sections>
+            <label><!-- Service Flow Wizard --></label>
+            <section>Service Flow Wizard</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>PO-plansjabloon-naam</nameFieldLabel>
+</CustomObjectTranslation>

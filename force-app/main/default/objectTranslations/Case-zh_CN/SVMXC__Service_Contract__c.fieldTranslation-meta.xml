@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Name of the service contract. Is a lookup to an existing service contract in ServiceMax --></help>
+    <label><!-- Service/Maintenance Contract --></label>
+    <name>SVMXC__Service_Contract__c</name>
+    <relationshipLabel><!-- Cases --></relationshipLabel>
+</CustomFieldTranslation>

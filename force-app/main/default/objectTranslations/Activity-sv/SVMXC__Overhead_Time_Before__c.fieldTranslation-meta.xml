@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Total overhead or flex time before the start of the actual service at the work order location. --></help>
+    <label><!-- Overhead Time at Start of the Job (Mins) --></label>
+    <name>SVMXC__Overhead_Time_Before__c</name>
+</CustomFieldTranslation>

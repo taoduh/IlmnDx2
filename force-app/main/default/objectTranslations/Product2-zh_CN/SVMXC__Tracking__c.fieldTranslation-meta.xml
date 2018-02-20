@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If and how this product is tracked when sold to customers. Serialized products are tracked by unique serial numbers. Lot/Batch tracked items are identified by the batch or lot numbers. Non-tracked items do not have a lot or serial number. --></help>
+    <label><!-- Tracking --></label>
+    <name>SVMXC__Tracking__c</name>
+    <picklistValues>
+        <masterLabel>Lot/Batch Tracked</masterLabel>
+        <translation>批次/批量跟踪</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Non-Tracked</masterLabel>
+        <translation>不跟踪</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Serialized</masterLabel>
+        <translation>系列化</translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Driving or travel time to this work order location from the last work order location or from the home base. --></help>
+    <label><!-- Travel Time to Workorder Location (Mins) --></label>
+    <name>SVMXC__Driving_Time__c</name>
+</CustomFieldTranslation>

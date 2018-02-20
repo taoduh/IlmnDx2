@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Configuration de ServiceMax</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Configuration de ServiceMax</value>
+    </caseValues>
+    <gender>Feminine</gender>
+    <layouts>
+        <layout>SVMX Old Configuration - All Profiles</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- THIS SCREEN IS NO LONGER USED IN SERVICEMAX --></label>
+            <section>THIS SCREEN IS NO LONGER USED IN SERVICEMAX</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Nom de paramètres</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

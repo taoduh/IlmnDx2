@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>User Profile Layout</layout>
+        <layoutType>UserAlt</layoutType>
+        <sections>
+            <label><!-- About --></label>
+            <section>About</section>
+        </sections>
+        <sections>
+            <label><!-- Background --></label>
+            <section>Background</section>
+        </sections>
+        <sections>
+            <label><!-- Contact --></label>
+            <section>Contact</section>
+        </sections>
+    </layouts>
+    <webLinks>
+        <label><!-- ChangeNextLevelApprover --></label>
+        <name>Apttus_Approval__ChangeNextLevelApprover</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GenerateApprovalMatrix --></label>
+        <name>Apttus_Approval__GenerateApprovalMatrix</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GetBackupApprover --></label>
+        <name>Apttus_Approval__GetBackupApprover</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- InactivateUserApprovalMatrix --></label>
+        <name>Apttus_Approval__InactivateUserApprovalMatrix</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- SetBackupApprover --></label>
+        <name>Apttus_Approval__SetBackupApprover</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- ViewApprovalMatrix --></label>
+        <name>Apttus_Approval__ViewApprovalMatrix</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Sync_EchoSign_User --></label>
+        <name>echosign_dev1__Sync_EchoSign_User</name>
+    </webLinks>
+</CustomObjectTranslation>

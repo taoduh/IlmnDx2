@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- “Street” part of the physical location address of Component SN --></help>
+    <label><!-- Component SN Street --></label>
+    <name>SVMXC__Component_Street__c</name>
+</CustomFieldTranslation>

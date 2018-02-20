@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Driving or travel time to get back to the technician&apos;s home base from the last work order location for the day or working shift. --></help>
+    <label><!-- Travel Time Back to Home Base (Mins) --></label>
+    <name>SVMXC__Driving_Time_Home__c</name>
+</CustomFieldTranslation>
