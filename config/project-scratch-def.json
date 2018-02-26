@@ -8,6 +8,6 @@
     ],
     "disabled": []
   },
-  "hasSampleData": false,
-  "adminEmail": "{{your email}}"
+  "hasSampleData": true,
+  "adminEmail": "tnewman@illumina.com"
 }
