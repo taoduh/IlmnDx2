@@ -1,14 +1,7 @@
-# SFDX  App
+# Illumina DCP Salesforce Repository
 
-## Dev, Build and Test
+Instructions to join are here (Illumina network required)
+https://confluence.illumina.com/display/SfdcSales/Join+DX+project+with+VS+Code
 
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
-
-
+Instructions to develop are here
+https://confluence.illumina.com/pages/viewpage.action?pageId=196447481
