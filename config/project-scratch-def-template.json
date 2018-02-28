@@ -9,5 +9,5 @@
     "disabled": []
   },
   "hasSampleData": true,
-  "adminEmail": "tnewman@illumina.com"
+  "adminEmail": "{{your email}}"
 }
