@@ -8,6 +8,6 @@
     ],
     "disabled": []
   },
-  "hasSampleData": true,
+  "hasSampleData": false,
   "adminEmail": "{{your email}}"
 }
