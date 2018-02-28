@@ -7,3 +7,4 @@ node_modules/
 .project/
 .vscode/
 .idea
+config/project-scratch-def.json
