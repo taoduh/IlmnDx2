@@ -58,6 +58,7 @@ public class Log {
         return String.join(logLines, '/n');        
     }
 
+    // sample change
     // Emits the current log state to the Log__e platform event
     public static void emit()
     {
